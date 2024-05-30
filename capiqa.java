@@ -1,8 +1,8 @@
 public class Greeting {
     public static void main(String args[]) {
         //declare variables
-        String name = "Suraya";
-        String pendaftaran = "10DDT22F1016";
+        String name = "syafiqa";
+        String pendaftaran = "10DDT22F1043";
         int age = 20;
         long accNum = 1123456789L;
         double salary = 5000.50;
@@ -16,5 +16,10 @@ public class Greeting {
         System.out.println("Age = " + age);
         System.out.println("Account Num = " + accNum);
         System.out.println("Salary = RM" + salary);
+
+        finally {
+            System.out.printIn("Thankyou");
+        }
+
     }
 }
