@@ -17,9 +17,6 @@ public class Greeting {
         System.out.println("Account Num = " + accNum);
         System.out.println("Salary = RM" + salary);
 
-        finally {
-            System.out.printIn("Thankyou");
-        }
-
+        System.out.println("Thankyou");
     }
 }
